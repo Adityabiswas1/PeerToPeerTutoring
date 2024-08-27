@@ -1,5 +1,6 @@
 # PeerToPeerTutoring
-![image](https://github.com/user-attachments/assets/594f88fc-6170-4c58-88b1-7e05a9c2c883)
+![PTP](https://github.com/user-attachments/assets/06281933-f543-4ba7-908b-90390daaa5dc)
+
 ## Vision
 
 The Peer-to-Peer Tutoring Platform aims to create a collaborative educational environment where learners can connect with peers to receive personalized tutoring. Our vision is to democratize education by enabling students from diverse backgrounds to share knowledge, enhance their skills, and support each other’s learning journey. We strive to foster a community-driven, accessible, and effective tutoring experience.
