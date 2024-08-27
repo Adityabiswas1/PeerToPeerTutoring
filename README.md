@@ -10,43 +10,6 @@ The Peer-to-Peer Tutoring Platform aims to create a collaborative educational en
 Certainly! Here's a textual description of a flowchart for the Peer-to-Peer Tutoring Platform. You can visualize this as a diagram or create it using a flowchart tool like Lucidchart, Microsoft Visio, or similar software.
 
 ### Flowchart for Peer-to-Peer Tutoring Platform
-
-1. **Start**
-   - Begin with the platform launch.
-
-2. **User Registration**
-   - **User** → Registers → **System**.
-   - **System** → Creates user profile → **User**.
-
-3. **Login**
-   - **User** → Logs in → **System**.
-   - **System** → Authenticates → **User**.
-
-4. **Search for Tutors**
-   - **User** → Searches → **System**.
-   - **System** → Displays list of tutors → **User**.
-
-5. **Select Tutor**
-   - **User** → Chooses a tutor → **System**.
-   - **System** → Displays tutor details → **User**.
-
-6. **Schedule Session**
-   - **User** → Requests session → **System**.
-   - **System** → Verifies tutor availability → **Tutor**.
-   - **Tutor** → Confirms session → **System**.
-
-7. **Conduct Session**
-   - **User** and **Tutor** → Conduct session → **System**.
-   - **System** → Records session details → **User** and **Tutor**.
-
-8. **Feedback & Ratings**
-   - **User** and **Tutor** → Provide feedback → **System**.
-   - **System** → Stores feedback → **User** and **Tutor**.
-
-9. **End**
-   - **User** → Logs out → **System**.
-   - **System** → Ends session.
-
 ### Visual Representation
 
   +-------------------+
@@ -92,11 +55,6 @@ Certainly! Here's a textual description of a flowchart for the Peer-to-Peer Tuto
   +-------------------+
   |       End         |
   +-------------------+
-
-
-You can use this structure to create a more detailed and visually appealing flowchart using flowcharting tools.
-
-
 The flowchart above depicts the system architecture and user interactions within our platform. It provides a visual representation of how users connect, schedule sessions, and exchange knowledge through the platform.
 
 ## Contract Address
