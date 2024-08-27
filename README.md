@@ -1,7 +1,5 @@
 # PeerToPeerTutoring
-Certainly! Here’s a streamlined version of the README file with simplified contact details:
-
----
+![image](https://github.com/user-attachments/assets/594f88fc-6170-4c58-88b1-7e05a9c2c883)
 
 # Peer-to-Peer Tutoring Platform
 
@@ -19,7 +17,7 @@ The flowchart above depicts the system architecture and user interactions within
 
 For the blockchain-based features of our platform, including secure transactions and identity verification, our smart contract is deployed at the following Ethereum address:
 
-**Contract Address:** `0xabcdef1234567890abcdef1234567890abcdef12`
+**Contract Address:** 0xeefe53e9fe846511713723e3b6d15d37aac80b11
 
 Please verify this address on an Ethereum blockchain explorer to interact with the smart contract.
 
