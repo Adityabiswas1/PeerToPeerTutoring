@@ -62,7 +62,8 @@ The flowchart above depicts the system architecture and user interactions within
 For the blockchain-based features of our platform, including secure transactions and identity verification, our smart contract is deployed at the following Ethereum address:
 
 **Contract Address:** 0xeefe53e9fe846511713723e3b6d15d37aac80b11
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/8d6b5ec2-57d4-476d-8e6c-f6e534656bec)
 
 
 Please verify this address on an Ethereum blockchain explorer to interact with the smart contract.
