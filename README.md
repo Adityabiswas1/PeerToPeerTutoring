@@ -63,6 +63,9 @@ For the blockchain-based features of our platform, including secure transactions
 
 **Contract Address:** 0xeefe53e9fe846511713723e3b6d15d37aac80b11
 
+![Uploading image.png…]()
+
+
 Please verify this address on an Ethereum blockchain explorer to interact with the smart contract.
 
 ## Future Scope
