@@ -6,7 +6,50 @@ The Peer-to-Peer Tutoring Platform aims to create a collaborative educational en
 
 ## Flowchart
 
-![Platform Flowchart](path/to/flowchart.png)
+  +-------------------+
+  |     Start         |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  | User Registration |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  |      Login        |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  | Search for Tutors |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  |   Select Tutor    |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  | Schedule Session  |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  | Conduct Session   |
+  +-------------------+
+            |
+            v
+  +-------------------+
+  | Feedback & Ratings|
+  +-------------------+
+            |
+            v
+  +-------------------+
+  |       End         |
+  +-------------------+
+
 
 The flowchart above depicts the system architecture and user interactions within our platform. It provides a visual representation of how users connect, schedule sessions, and exchange knowledge through the platform.
 
